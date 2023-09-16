@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\MoviesController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -14,5 +15,15 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('home');
 });
+
+Route::get('/movies/add', function () {
+    return view('movies.add');
+});
+
+Route::get('/movies/view/{id}', [MoviesController::class, 'view']);
+Route::delete('/movies/{id}', [MoviesController::class, 'destroy'])->name('movies.destroy');
+
+
+route::resource('movies', MoviesController::class);

@@ -1,3 +1,12 @@
+# Home Page
+![home](https://github.com/WisnuCakraa/web-streaming-tk1-binus/assets/52536227/1252e78d-fc99-45d3-a44d-0056f05a3492)
+# Form Add Movie Page
+![add](https://github.com/WisnuCakraa/web-streaming-tk1-binus/assets/52536227/e630d33a-5a94-4627-ba96-43980749846f)
+# List Movie Page
+![list](https://github.com/WisnuCakraa/web-streaming-tk1-binus/assets/52536227/5e5cea92-0be6-434b-b933-ede9074d3404)
+# View Movie Page
+![view](https://github.com/WisnuCakraa/web-streaming-tk1-binus/assets/52536227/c995cf5e-e4fb-449c-bd70-c8cfcc87a76e)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
